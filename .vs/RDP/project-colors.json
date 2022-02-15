@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e64ca6e3-6485-4a3f-aaef-585c05b7c235": {
+      "ProjectGuid": "e64ca6e3-6485-4a3f-aaef-585c05b7c235",
+      "DisplayName": "RDP",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a2b5157c-0510-4822-949a-8e9c4b2a6556": {
+      "ProjectGuid": "a2b5157c-0510-4822-949a-8e9c4b2a6556",
+      "DisplayName": "HospitalManagement2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
